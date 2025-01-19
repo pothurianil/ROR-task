@@ -1,0 +1,4 @@
+:schedule:
+  loan:
+    cron: "*/5 * * * *"
+    class: LoanJob

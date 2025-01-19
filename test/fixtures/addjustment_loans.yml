@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  loan: 
+  user: 
+  status: 1
+
+two:
+  loan: 
+  user: 
+  status: 1
